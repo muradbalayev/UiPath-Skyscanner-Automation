@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Click Date Day",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "LNH95__EpUO5BLAh16YwLg",
+  "Reference": "2NWOwFiv3EWnewMYaR75Aw/LNH95__EpUO5BLAh16YwLg",
+  "ParentRef": "2NWOwFiv3EWnewMYaR75Aw/D7shgC6o6EWM-mPvQ36FvQ",
+  "Created": "2026-01-29T08:17:41.0988751Z",
+  "Updated": "2026-01-29T08:17:41.0988751Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.24.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

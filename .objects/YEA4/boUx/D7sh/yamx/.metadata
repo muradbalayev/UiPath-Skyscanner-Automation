@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Nereye",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "yamxE5uuo0K6AhtbyenkWw",
+  "Reference": "2NWOwFiv3EWnewMYaR75Aw/yamxE5uuo0K6AhtbyenkWw",
+  "ParentRef": "2NWOwFiv3EWnewMYaR75Aw/D7shgC6o6EWM-mPvQ36FvQ",
+  "Created": "2026-01-29T08:15:35.9459959Z",
+  "Updated": "2026-01-29T08:15:35.9459959Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.24.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

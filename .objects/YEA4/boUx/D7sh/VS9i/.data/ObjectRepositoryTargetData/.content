@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="8qA1VqKOqUKqBzXMGM0UnA" Reference="2NWOwFiv3EWnewMYaR75Aw/1YW-A2aH9EqU6Vf8vLbamA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="skyscanner.com.tr/ucak-bileti" CVScreenId="19902b22-7a4f-4565-abfb-0d2202a0bd82" CvTextArea="435, 432, 55, 17" CvTextArgument="Tek yön" CvType="Text" DesignTimeRectangle="389, 420, 293, 40" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname='Tek yön' parentid='popover-TripTypeTopLevel' tag='SPAN' data-testid='ONE_WAY' innertext='Tek yön' /&gt;" Guid="389d89ca-aa46-494a-a45c-8897e4ef4c6f" ScopeSelectorArgument="&lt;html app='chrome.exe' title='En Ucuz Uçak Biletleri ve Rezervasyon Teklifleri | Skyscanner' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="cd00796e06323c0ea6ee7ab81dde49a4.png" xmlns="">094mJt04zukGMG5MR0LUBMQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

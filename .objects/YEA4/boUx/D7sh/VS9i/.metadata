@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Tek yön(1)",
+  "Type": "Element",
+  "Id": "VS9itgsJ5EKDuQs_9vn2aA",
+  "Reference": "2NWOwFiv3EWnewMYaR75Aw/VS9itgsJ5EKDuQs_9vn2aA",
+  "ParentRef": "2NWOwFiv3EWnewMYaR75Aw/D7shgC6o6EWM-mPvQ36FvQ",
+  "Created": "2026-01-29T08:14:26.981734Z",
+  "Updated": "2026-01-29T08:14:26.981734Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.24.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

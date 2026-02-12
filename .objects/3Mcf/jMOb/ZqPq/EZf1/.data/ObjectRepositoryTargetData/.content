@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="IuzMF62PwkugDrFinQ1ATg" Reference="2NWOwFiv3EWnewMYaR75Aw/EZf1Zx6FdESuiraCaeMqEw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:p="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://www.skyscanner.com.tr/tasima/ucak-bileti/ista/gyd/260203/?adultsv2=1&amp;cabinclass=economy&amp;childrenv2=&amp;ref=home&amp;rtn=0&amp;preferdirects=false&amp;outboundaltsenabled=false&amp;inboundaltsenabled=false" ContentHash="3GLefzMLJkW7ZpY76bYmzw" DesignTimeRectangle="575, 645, 780, 1714" ElementType="List" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aria-role='list' tag='UL' /&gt;" Guid="504f19ad-f95b-48db-bfe8-81baca46e5d2" Reference="2NWOwFiv3EWnewMYaR75Aw/EZf1Zx6FdESuiraCaeMqEw" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Skyscanner&amp;apos;da İstanbul-Bakü arası ucuz uçuşları bulun' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="8e829d4575c7a21f59687c3d7d0c9442.png" xmlns="">8e829d4575c7a21f59687c3d7d0c9442.png</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">ExtractData</x:String>
+    <p:InArgument x:TypeArguments="x:String" x:Key="ExtractDataSettings" xml:space="preserve">&lt;Table xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xsd='http://www.w3.org/2001/XMLSchema' Type='Structured' AddCvHeader='true' IsScrollEnabled='false'&gt;
+	&lt;Column xsi:type='DataColumn' ReferenceName='Column0' Name='KalkisSaat'&gt;
+		&lt;IsValidName&gt;true&lt;/IsValidName&gt;
+		&lt;ValidationErrorMessage /&gt;
+		&lt;IsExtra&gt;false&lt;/IsExtra&gt;
+		&lt;CanExtractSimilar&gt;true&lt;/CanExtractSimilar&gt;
+		&lt;Format xsi:type='TextColumnFormat' /&gt;
+	&lt;/Column&gt;
+	&lt;Column xsi:type='DataColumn' ReferenceName='Column3' Name='Fiyat'&gt;
+		&lt;IsValidName&gt;true&lt;/IsValidName&gt;
+		&lt;ValidationErrorMessage /&gt;
+		&lt;IsExtra&gt;false&lt;/IsExtra&gt;
+		&lt;CanExtractSimilar&gt;true&lt;/CanExtractSimilar&gt;
+		&lt;Format xsi:type='TextColumnFormat' /&gt;
+	&lt;/Column&gt;
+	&lt;Column xsi:type='DataColumn' ReferenceName='Column1' Name='Firma'&gt;
+		&lt;IsValidName&gt;true&lt;/IsValidName&gt;
+		&lt;ValidationErrorMessage /&gt;
+		&lt;IsExtra&gt;false&lt;/IsExtra&gt;
+		&lt;CanExtractSimilar&gt;true&lt;/CanExtractSimilar&gt;
+		&lt;Format xsi:type='TextColumnFormat' /&gt;
+	&lt;/Column&gt;
+&lt;/Table&gt;</p:InArgument>
+    <x:Null x:Key="NextLinkTarget" />
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

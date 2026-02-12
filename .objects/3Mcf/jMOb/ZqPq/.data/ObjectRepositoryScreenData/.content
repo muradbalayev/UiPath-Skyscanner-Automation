@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="-kqqZ1ZJlEqVLaEhMgCTrQ" Reference="h2Y-I4_wlUuulWtIkKZLuw/7gbtUIJfAka5VTdzt8rRsQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:p="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-8, -8, 1936, 1048" BrowserType="Chrome" ContentHash="SfPiluijfE22sRaMzHIHsQ" IconBase64="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF7SURBVDhPrVM9S8NQFH2FkhYVf4Cb/0F0dPYnuIggShXb2lYEJ3FxqB8UBCcL4u4kIoqKi624OLi3TVMlcai0RsXpeM9Lqq1asWjgwMm559zc3JeocMIqhBNONRy3OoOXKahQ3HRDCw8IpZzOwEzMdDlBVQtzVmeQDCf5toEhEB1qpqxBTq3Z07aBEZdgxERguoyhVVuDnBprPzYIRMvona8gm3dhRC1snj9qkFNjjZ62DbqT8vTxEvZvXpCR4MpRTYOcGmv0fGlgyI2SMXevnrBz6WJQxs5euBhI2xrk1Fijh15mWiYIymh9i7fYzrlIn9ShRotQYyUPwqmxRg+9ra+QdNAlm+5fusPI1j2WD2vYOKtj/dQDOTXW6KGXmfcGgVkbwxkH+eIr9q6fsXZcw4G8c+Mip8YaPfQy87ED6daTqnhLnDKhJmTsSVMbCXKtSY0eeplp2QHPOBjzN+xDRXj+/rH5oEd/D5+X2Gz6FRoN/uNn+sPvbBXeAFBBfo2ZYd31AAAAAElFTkSuQmCC" Reference="h2Y-I4_wlUuulWtIkKZLuw/7gbtUIJfAka5VTdzt8rRsQ" Selector="&lt;html app='chrome.exe' title='*' /&gt;" Url="https://www.skyscanner.com.tr/tasima/ucak-bileti/ista/gyd/260123/?adultsv2=2&amp;cabinclass=economy&amp;childrenv2=9%7C9&amp;ref=home&amp;rtn=0&amp;preferdirects=false&amp;outboundaltsenabled=false&amp;inboundaltsenabled=false" Version="V2">
+      <TargetApp.Arguments>
+        <p:InArgument x:TypeArguments="x:String" />
+      </TargetApp.Arguments>
+      <TargetApp.WorkingDirectory>
+        <p:InArgument x:TypeArguments="x:String" />
+      </TargetApp.WorkingDirectory>
+      <imageRef attrName="InformativeScreenshot" originalValue="087fd9700b09064aaa8b1af4240a70f7.jpg" xmlns="">087fd9700b09064aaa8b1af4240a70f7.jpg</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

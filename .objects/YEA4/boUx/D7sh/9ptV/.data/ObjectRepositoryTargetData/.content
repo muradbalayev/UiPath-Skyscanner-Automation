@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="HvwLmat6-UGGWXsDYaOfZw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="skyscanner.com.tr/ucak-bileti" CVScreenId="641f3e9a-509b-4f05-aa98-8e16f813c880" CvElementArea="373, 594, 239, 75" CvType="InputBox" DesignTimeRectangle="373, 596, 233, 72" ElementType="InputBox" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl type='' parentid='SearchControlsWrapper' tag='DIV' class='_label_178k1_127 _DesktopOriginLabel_186bm_166' aaname='' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="44ecaeb2-7a5f-4b40-9e90-3c32b4411d31" ScopeSelectorArgument="&lt;html app='chrome.exe' title='En Ucuz Uçak Biletleri ve Rezervasyon Teklifleri | Skyscanner' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="641f3e9a-509b-4f05-aa98-8e16f813c880" DesignTimeRectangle="389, 612, 40, 16" ElementType="Text" FullSelectorArgument="&lt;webctrl parentid='originInput-label' tag='SPAN' /&gt;" Guid="45cdf6db-f28c-4516-8b68-4b47748358e4" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="8830d54f77c5690c57d5a31b81ddea17.png" xmlns="">0Nrg6T29X60aY1CNPexceNQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

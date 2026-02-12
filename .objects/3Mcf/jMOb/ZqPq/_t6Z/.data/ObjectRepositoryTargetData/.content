@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="MUCDxLtGnEy0bOtnbO10Wg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="skyscanner.com.tr/tasima/ucak-bileti/saw/sip/260319" DesignTimeRectangle="591, 473, 748, 132" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl class='FallbackNoResults_container__NTEzM' parentid='app-root' tag='DIV' /&gt;" Guid="ea8df1cf-5ec9-4ea4-9c94-1d5f41678e61" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Skyscanner&amp;apos;da İstanbul-Simferopol arası ucuz uçuşları bulun' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="26abd98b50e8ce81c2599bf3a9c072b5.png" xmlns="">0dB_4LW0BYUGbcqdN3cS-Rg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

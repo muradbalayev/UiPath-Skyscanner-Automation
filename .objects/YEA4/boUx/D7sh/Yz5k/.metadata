@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Click Add Child Button",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "Yz5k4ezVx0aU5VX9-6yJpg",
+  "Reference": "2NWOwFiv3EWnewMYaR75Aw/Yz5k4ezVx0aU5VX9-6yJpg",
+  "ParentRef": "2NWOwFiv3EWnewMYaR75Aw/D7shgC6o6EWM-mPvQ36FvQ",
+  "Created": "2026-01-29T08:21:53.5310843Z",
+  "Updated": "2026-01-29T08:21:53.5310843Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.24.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

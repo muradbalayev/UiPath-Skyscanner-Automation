@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Select Direction",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "NCGDWMjHok6-O2FJe58Jnw",
+  "Reference": "2NWOwFiv3EWnewMYaR75Aw/NCGDWMjHok6-O2FJe58Jnw",
+  "ParentRef": "2NWOwFiv3EWnewMYaR75Aw/D7shgC6o6EWM-mPvQ36FvQ",
+  "Created": "2026-01-29T08:14:40.8448991Z",
+  "Updated": "2026-01-29T08:14:40.8448991Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.24.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

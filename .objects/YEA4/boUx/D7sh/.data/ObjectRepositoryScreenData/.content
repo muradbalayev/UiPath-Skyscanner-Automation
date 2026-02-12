@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="gO0liODDEkCeWFRWrJKMQQ" Reference="2NWOwFiv3EWnewMYaR75Aw/D7shgC6o6EWM-mPvQ36FvQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:p="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-8, -8, 1936, 1048" BrowserType="Chrome" ContentHash="WwUVJattgkONM7IZCsuRPg" IconBase64="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF7SURBVDhPrVM9S8NQFH2FkhYVf4Cb/0F0dPYnuIggShXb2lYEJ3FxqB8UBCcL4u4kIoqKi624OLi3TVMlcai0RsXpeM9Lqq1asWjgwMm559zc3JeocMIqhBNONRy3OoOXKahQ3HRDCw8IpZzOwEzMdDlBVQtzVmeQDCf5toEhEB1qpqxBTq3Z07aBEZdgxERguoyhVVuDnBprPzYIRMvona8gm3dhRC1snj9qkFNjjZ62DbqT8vTxEvZvXpCR4MpRTYOcGmv0fGlgyI2SMXevnrBz6WJQxs5euBhI2xrk1Fijh15mWiYIymh9i7fYzrlIn9ShRotQYyUPwqmxRg+9ra+QdNAlm+5fusPI1j2WD2vYOKtj/dQDOTXW6KGXmfcGgVkbwxkH+eIr9q6fsXZcw4G8c+Mip8YaPfQy87ED6daTqnhLnDKhJmTsSVMbCXKtSY0eeplp2QHPOBjzN+xDRXj+/rH5oEd/D5+X2Gz6FRoN/uNn+sPvbBXeAFBBfo2ZYd31AAAAAElFTkSuQmCC" Reference="2NWOwFiv3EWnewMYaR75Aw/D7shgC6o6EWM-mPvQ36FvQ" Selector="&lt;html app='chrome.exe' title='En Ucuz Uçak Biletleri ve Rezervasyon Teklifleri | Skyscanner' /&gt;" Url="[in_Config(&quot;SkyScannerURL&quot;).ToString()]" Version="V2">
+      <TargetApp.Arguments>
+        <p:InArgument x:TypeArguments="x:String" />
+      </TargetApp.Arguments>
+      <TargetApp.WorkingDirectory>
+        <p:InArgument x:TypeArguments="x:String" />
+      </TargetApp.WorkingDirectory>
+      <imageRef attrName="InformativeScreenshot" originalValue="f407d2da9296776206a7c3e0d92f7d1c.jpg" xmlns="">0k7-jWdMcBkSVDTHSEjlNtg</imageRef>
+    </TargetApp>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1" />
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

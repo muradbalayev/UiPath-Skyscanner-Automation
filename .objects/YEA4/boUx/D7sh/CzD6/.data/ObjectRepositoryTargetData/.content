@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="RxJy-gInXka2bCSwsC3Ntg" Reference="2NWOwFiv3EWnewMYaR75Aw/CzD6O2UqykmYfWtuThkvLw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="skyscanner.com.tr/ucak-bileti" CVScreenId="fcf710f5-634b-4517-9733-abd35777f214" DesignTimeRectangle="1111, 586, 329, 48" ElementType="DropDown" ElementVisibilityArgument="Interactive" FullSelectorArgument="[string.Format(&quot;&lt;webctrl id='children-age-dropdown-{0}' tag='SELECT' /&gt;&quot;, int_currentIndex)]" Guid="79cc0d65-39fd-48e7-beee-02fb01d7b44f" ScopeSelectorArgument="&lt;html app='chrome.exe' title='En Ucuz Uçak Biletleri ve Rezervasyon Teklifleri | Skyscanner' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="a11319d9ca1719d53c7d712bafb6a9ff.png" xmlns="">04i3BaRkO8U-Qx23rLW2sRA</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData IsString="False" Name="int_currentIndex">
+        <ObjectRepositoryVariableData.DefaultValue>
+          <x:Int32>0</x:Int32>
+        </ObjectRepositoryVariableData.DefaultValue>
+      </ObjectRepositoryVariableData>
+    </scg:List>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

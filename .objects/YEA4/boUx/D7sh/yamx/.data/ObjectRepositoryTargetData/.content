@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="AWULDqLMQE2GgoU83JYtHw" Reference="2NWOwFiv3EWnewMYaR75Aw/yamxE5uuo0K6AhtbyenkWw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="skyscanner.com.tr/ucak-bileti" CVScreenId="fef9b1f5-c91b-4d43-a65f-045e050f1b66" DesignTimeRectangle="642, 630, 185, 24" ElementType="InputBox" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl id='destinationInput-input' tag='INPUT' type='text' aaname='Nereye' /&gt;" Guid="2ac1058c-d616-4ec8-bb47-f8f126607a6b" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='En Ucuz Uçak Biletleri ve Rezervasyon Teklifleri | Skyscanner' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="7987dd42-f39e-4b5a-b051-08c40b8e7177" DesignTimeRectangle="642, 610, 185, 20" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='destinationInput-label' matching:id='fuzzy' fuzzylevel:id='0.0' tag='LABEL' type='' class='' matching:class='fuzzy' fuzzylevel:class='0.0' aaname='' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Nereye' /&gt;" Guid="1ef9133d-2f69-4a5e-9b1a-b1811e8439a0" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="d6ded848a9eeeea64bf5b2931b6a53f9.png" xmlns="">0u-GyM74YRUqK8hu2GRelog</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

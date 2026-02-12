@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="grdC6hNq3k6LV5Z9-qfzDg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="skyscanner.com.tr/ucak-bileti" DesignTimeRectangle="373, 504, 121, 32" ElementType="Button" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl aria-role='button' tag='BUTTON' type='button' class='BpkSelectableChip_bpk-chip__ZTlmM BpkSelectableChip_bpk-chip--on-dark__NjM5N' aaname='Yolculuk türünü seçin' matching:aria-role='fuzzy' fuzzylevel:aria-role='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Gidiş Dönüş' /&gt;" Guid="7c2135e5-3e41-4a64-a4c7-ca5ff3a9bd7e" ScopeSelectorArgument="&lt;html app='chrome.exe' title='En Ucuz Uçak Biletleri ve Rezervasyon Teklifleri | Skyscanner' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="1">
+          <Target DesignTimeRectangle="389, 510, 73, 20" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='popoverContainer-TripTypeTopLevel' tag='SPAN' type='' class='BpkText_bpk-text__Mjk1M BpkText_bpk-text--footnote__MTk2Z' aaname='Gidiş Dönüş' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Gidiş Dönüş' /&gt;" Guid="96fff152-186a-491d-928a-ca30f1799c22" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="ef8a06ba0529f16eb1b403059ba3fd55.png" xmlns="">0VO1Ba1z2r0abZ2hSOncFFA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

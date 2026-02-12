@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Kalkış(2)",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "28XtRr9JQEKFM_X0OIJ7CQ",
+  "Reference": "2NWOwFiv3EWnewMYaR75Aw/28XtRr9JQEKFM_X0OIJ7CQ",
+  "ParentRef": "2NWOwFiv3EWnewMYaR75Aw/D7shgC6o6EWM-mPvQ36FvQ",
+  "Created": "2026-01-29T08:55:07.2027409Z",
+  "Updated": "2026-01-29T08:55:07.2027409Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.24.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
